@@ -1,0 +1,67 @@
+.image-container {
+    display: flex; 
+    justify-content: space-between; }
+
+.image-container img {
+    max-width: 40%; 
+}
+body{
+    background-image: url('/Users/nandheeshsivakumar/Desktop/event management/wp5315423.webp'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    color: #060606;
+}
+
+body,   h3{
+    margin: 0;
+    padding: 0;
+}
+body h2, p {
+    margin: 0;
+    padding: 0;
+    color: #090909;
+}
+body h1{
+    margin: 0;
+    padding: 0;
+    color: #040303;
+    text-align: center;
+
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e4e8e9;
+    color: #0a0a0a;
+    line-height: 1.6;
+    background-image: url('/Users/nandheeshsivakumar/Desktop/event management/photo-1557683325-3ba8f0df79de.webp'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    color: #060606;
+}
+
+header {
+    
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    animation: headerAnimation 5s infinite alternate;
+}
+header h1{
+    color: #141313;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+
+
+}

@@ -1,0 +1,52 @@
+body,   h3{
+    margin: 0;
+    padding: 0;
+}
+body h2, p {
+    margin: 0;
+    padding: 0;
+    color: #070606;
+    
+}
+body h1{
+    margin: 0;
+    padding: 0;
+    color: #f9f7f7;
+    text-align: center;
+
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e4e8e9;
+    color: #0a0a0a;
+    line-height: 1.6;
+    background-image: url('/Users/nandheeshsivakumar/Desktop/event management/photo-1557683325-3ba8f0df79de.webp'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    color: #060606;
+}
+header {
+    
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    animation: headerAnimation 5s infinite alternate;
+}
+a{
+    color: #0a0a0a;
+}
+header h1{
+    color: #090909;
+
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #090808;
+    color: #fff;
+}
+footer h1,h3{
+    color: #fff;
+    flex-shrink: 0;
+}

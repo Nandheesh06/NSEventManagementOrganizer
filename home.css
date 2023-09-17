@@ -1,0 +1,153 @@
+body,   h3{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: #000000;
+}
+body h2, p {
+    margin: 0;
+    padding: 0;
+    color: #090909;
+}
+body h1{
+    margin: 0;
+    padding: 0;
+    color: #141414;
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e4e8e9;
+    color: #0a0a0a;
+    line-height: 1.6;
+    background-image: url('/Users/nandheeshsivakumar/Desktop/event management/photo-1557683325-3ba8f0df79de.webp'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    color: #060606;
+}
+
+header {
+    background-color: #000000;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    animation: headerAnimation 5s infinite alternate;
+}
+header h1{
+    color: #fff;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+
+
+.logo-container {
+    text-align: center;
+}
+
+.logo-container img {
+    max-width: 50%;
+    height: 50%;
+    display: block;
+    margin: 0 auto; 
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #ff6600;
+}
+
+.hero {
+    background-image: url('hero.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 150px 0;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.services {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.services h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.service {
+    margin: 0 20px;
+}
+
+.service img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.service h3 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
+
+.service p {
+    color: #0b0b0b;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #090808;
+    color: #fff;
+}
+footer h1,h3{
+    color: #fff;
+}
+
+.image-container {
+    display: flex; 
+    justify-content: space-between; }
+
+.image-container img {
+    max-width: 40%; 
+}
+.container{
+    width: 1200px;
+    margin: auto;
+
+}
+body h2{
+    text-align: center;
+}
+body h1{
+    font-size: 50px;
+}
